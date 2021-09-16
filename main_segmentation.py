@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
 """
+----------------
+Main script
+----------------
+
+
 Created on Fri May 15 10:28:31 2020
 
 @author: Marco
