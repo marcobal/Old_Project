@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 """
+-----------------
+Segmentation Core
+-----------------
+
 Created on Mon Feb 17 16:03:57 2020
 
 @author: Marco
